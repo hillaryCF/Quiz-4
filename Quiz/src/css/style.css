@@ -1,0 +1,21 @@
+#second-content-tab {
+  display: none; }
+
+.second-tittle-tab {
+  width: 40%; }
+
+.first-tittle-tab {
+  width: 40%; }
+  @media only screen and (max-width: 600px) {
+    .first-tittle-tab {
+      display: block; } }
+
+@media only screen and (max-width: 600px) {
+  #second-content-tab {
+    display: none; } }
+
+@media only screen and (max-width: 600px) {
+  #first-content-tab {
+    display: none; } }
+
+/*# sourceMappingURL=style.css.map */
